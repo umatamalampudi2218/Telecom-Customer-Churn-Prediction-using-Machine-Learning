@@ -79,9 +79,3 @@ To contribute, follow these steps:
    git push origin <project_name>/<location>
    ```
 5. **Create a pull request.**
-
-### License
-This project is licensed under the @2023 Surya Kiran Varma Vegesna.
-
-### Contact
-If you have any questions or want to contribute, please email us at surya@example.com.
